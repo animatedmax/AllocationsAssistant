@@ -1,0 +1,31 @@
+!BEGIN-TEAM-NAMES
+Apps-Manager
+BAM: Billing and Account Management 
+BOSH
+BOSH-CPIs
+BOSH-OpenStack-CPI
+CAPI
+CLI
+Cloud-Ops-SF
+Concourse
+Diego
+Diego-Persistence
+Identity-Service
+Identity-UAA
+MySQL
+MySQL-Leader-Follower
+Ops-Manager
+PCF-BOSH
+PCF-Metrics-App-Dev
+Rel-Eng
+Release-Integration
+Routing
+Security-CredHub
+Security-Enablement
+Toolsmiths
+!END-TEAM-NAMES
+
+(Jonathan Berney) Apps-Manager: Cloud-Ops-SF
+(Derek Reeve) Cloud-Ops-SF: Rel-Eng 
+(Steve Taylor) Rel-Eng: Toolsmiths 
+(Derwei Chan) Toolsmiths: Apps-Manager

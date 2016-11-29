@@ -1,0 +1,60 @@
+!BEGIN-TEAM-NAMES
+Apps-Manager
+BAM: Billing and Account Management 
+BOSH
+BOSH-CPIs
+BOSH-OpenStack-CPI
+CAPI
+CLI
+Cloud-Ops-SF
+Concourse
+Diego
+Diego-Persistence
+Identity-Service
+Identity-UAA
+MySQL
+MySQL-Leader-Follower
+Ops-Manager
+PCF-BOSH
+PCF-Metrics: PCF-Metrics App Dev
+Rel-Eng
+Rel-Int: Release-Integration
+Routing
+Security-CredHub
+Security-Enablement
+Toolsmiths
+New-Hire
+!END-TEAM-NAMES
+
+(Jonathan Berney) Apps-Manager: BAM CAPI CLI Cloud-Ops-SF Identity-UAA MySQL Ops-Manager Rel-Eng Concourse Rel-Int Toolsmiths 
+(Michael Trestman) BAM: Apps-Manager CAPI Identity-UAA Ops-Manager Toolsmiths 
+(Tom Viehman) BOSH: Apps-Manager BAM Cloud-Ops-SF Ops-Manager Concourse 
+(Aakash Shah) CAPI: Apps-Manager BOSH CLI Rel-Int Security-Enablement  Toolsmiths 
+(Jeff Pak) CLI: BAM BOSH Cloud-Ops-SF Identity-UAA Ops-Manager Concourse 
+(Derek Reeve) Cloud-Ops-SF: CAPI Diego MySQL Rel-Eng Toolsmiths 
+(Jen Spinney) Diego: BAM CLI Identity-UAA Ops-Manager Security-Enablement
+(Bharath Sekar) Identity-UAA: BAM Rel-Eng Routing 
+(Jeff Schnitzer) MySQL: Apps-Manager BAM CAPI Ops-Manager 
+(Michelle He) Ops-Manager: CLI Diego Identity-UAA Security-Enablement  
+(Jean de Klerk) PCF-Metrics: Apps-Manager Routing 
+(Steve Taylor) Rel-Eng: BOSH CAPI Ops-Manager PCF-Metrics 
+(Edwin Xie) Routing: BAM CAPI CLI Identity-UAA MySQL Ops-Manager PCF-Metrics Rel-Eng 
+(Topher Bullock) Concourse: CAPI CLI MySQL PCF-Metrics 
+(Jesse Alford) Rel-Int: Apps-Manager BAM CAPI Cloud-Ops-SF PCF-Metrics Routing 
+(Slawek Ligus) Security-Enablement: BAM BOSH CAPI CLI Identity-UAA Ops-Manager Security-CredHub 
+(Jennifer Hamon) Security-CredHub: Apps-Manager BAM CLI Identity-UAA Security-Enablement PCF-Metrics Rel-Eng Concourse 
+(Derwei Chan) Toolsmiths: PCF-Metrics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
